@@ -1,6 +1,6 @@
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MendesK98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MendesK98&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="150em" width="49%" src="https://github-readme-stats.vercel.app/api?username=MendesK98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MendesK98&layout=compact&langs_count=16&theme=tokyonight"/>
 </div> <br>
 <div>
    <code><img widht="30" height="40" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"></code>
