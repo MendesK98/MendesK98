@@ -10,7 +10,7 @@
   <code><img widht="30" height="40" src="https://img.icons8.com/nolan/128/android-os.png"/></code>
 </div> <br>
 <div>
-  <a href="https://www.linkedin.com/in/lucas-m98/" target="_blank">
+  <a href="https://www.linkedin.com/in/devmendes/" target="_blank">
     <img height="25em" src="https://img.icons8.com/nolan/128/linkedin-circled.png"/>
   </a>
 </div>  <br>
