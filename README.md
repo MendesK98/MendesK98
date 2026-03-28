@@ -104,3 +104,12 @@ Meu objetivo é construir sistemas bem estruturados, escaláveis e que resolvam 
 <p align="center">
 Sempre evoluindo no desenvolvimento de software e buscando construir soluções cada vez mais completas.
 </p>
+
+<h2 align="center">Educação</h2>
+
+<div align="center">
+
+🎓 Pós-graduação em Desenvolvimento Full Stack  
+PUC Minas (2025)
+
+</div>
