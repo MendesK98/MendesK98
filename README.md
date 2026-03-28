@@ -1,11 +1,5 @@
 <!-- STATS -->
-<div align="center">
-  <img height="170em"
-       src="https://github-readme-stats.vercel.app/api?username=MendesK98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-  <img height="170em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MendesK98&layout=compact&langs_count=10&theme=tokyonight"/>
-</div>
 
 <br>
 
