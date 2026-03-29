@@ -81,7 +81,6 @@ Meu objetivo é construir sistemas bem estruturados, escaláveis e que resolvam 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" title="IntelliJ IDEA"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45" title="Jira"/>
 
 </div>
