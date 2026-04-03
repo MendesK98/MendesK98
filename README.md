@@ -15,10 +15,9 @@ Foco em APIs, arquitetura de software, integração de sistemas e soluções IoT
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=MendesK98&color=blue" />
-
-<img src="https://img.shields.io/github/followers/MendesK98?style=social" />
-
-<img src="https://img.shields.io/github/stars/MendesK98?style=social" />
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 
 </div>
