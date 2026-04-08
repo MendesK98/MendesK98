@@ -11,7 +11,7 @@ Foco em APIs, arquitetura de software, integração de sistemas e soluções IoT
 
 <img src="https://streak-stats.demolab.com?user=MendesK98&theme=tokyonight" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MendesK98&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MendesK98&theme=tokyo-night&days=60" />
 
 <br>
 
